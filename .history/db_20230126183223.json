@@ -1,5 +1,5 @@
 {
-  "food_data_json": [
+    "food_data_json": [
         {
             "id": 1,
             "name": "Chicken Breast",
@@ -28,4 +28,4 @@
             "sugar": 6.3
         }
     ]
-}
+  }
